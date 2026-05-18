@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F1F1F1;
+    display: inline-block;
+    width: 1169px;
+}
+
+.main {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 11px;
+    padding-left: 140px;
+    margin-top: 21px;
+    font-family: "Roboto";
+}
+
+.main2 {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 11px;
+    padding-left: 35px;
+    margin-top: 21px;
+    font-family: "Roboto";
+}
+
+.qali-img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-left: 40px;
+    position: relative;
+    top: 10px;
+}
+
+.cont-1 {
+	width: 1220px;
+	margin: 50px 138px;
+}
+
+.cont-1 > .satauri {
+	font-size: 24px;
+	font-weight: 700;
+	color: rgba(0, 0, 0, 1);
+	margin-bottom: 27px;
+	font-family: "Roboto";
+}
+
+.card {
+	width: 362px;
+	height: 357px;
+	background-color: rgba(255, 255, 255, 1);
+	border-radius: 5px;
+	display: inline-block;
+	margin-right: 40px;
+	position: relative;
+}
+
+.card > h6 {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: "Roboto";
+	color: rgba(255, 255, 255, 1);
+}
+
+.card > img {
+	width: 362px;
+	height: 186px;
+	border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.texts {
+	padding-top: 68px;
+	padding-left: 37px;
+	color: rgba(138, 135, 135, 1);
+	font-family: "Roboto";
+	font-size: 10px;
+	font-weight: 700;
+}
+
+.texts > p {
+	margin-bottom: 14px;
+}
+
+.texts img {
+	width: 16px;
+	height: 16px;
+	margin-right: 16px;
+}
+
+.happening {
+    font-size: 24px;
+	font-weight: 700;
+	color: rgba(0, 0, 0, 1);
+	margin-bottom: 57px;
+	font-family: "Roboto";
+    padding-left: 140px;
+}
+
+.happening-img {
+    width: 758px;
+    height: 430px;
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    position:relative;
+    left: 138px;
+}
+
+.happening-img2 {
+     width: 758px;
+    height: 430px;
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    position:relative;
+    left: 138px;
+    margin-top: 42px;
+
+
+}
+
+.happeningG-img {
+    width: 362px;
+    height: 212px;
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    position:relative;
+    left: 138px;
+    bottom: 218px;
+    margin-left: 45px;
+}
+
+.happeningGG-img {
+    width: 362px;
+    height: 212px;
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    position:relative;
+    left: 138px;
+    bottom: 350px;
+    margin-left: 45px;
+}
+
+.warwera {
+     font-size: 24px;
+	font-weight: 700;
+	color: rgb(255, 255, 255);
+	font-family: "Roboto";
+    position: relative;
+    bottom: 250px;
+    left: 400px;
+}
+
+.happeningGGG-img {
+    width: 362px;
+    height: 212px;
+    border-radius: 5px 5px 5px 5px;
+    display: inline-block;
+    position:relative;
+    left: 945px;
+    bottom: 217px;
+}
+
+.footer {
+    background-color: #243043;
+    width: 1600px;
+    height: 200px;
+}
+
+.card2 {
+    width: 1600px;
+    background-color: #243043;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding: 48px 0;
+}
+
+.texts2 {
+    padding-top: 0;
+    padding-left: 137px;
+    color: #818687;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.texts2 > p {
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+.texts3 {
+    padding-left: 50px;
+    color: #818687;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 700;
+    position: static; 
+}
+
+.texts3 > p {
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+.texts4 {
+    padding-left: 50px;
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 700;
+    position: static; 
+    padding-left: 112px;
+}
+
+.texts4 > p {
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+.footer-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    margin-left: 416px;
+}
+
+.footer-logo img {
+    width: 42px;
+    height: 42px;
+}
+
